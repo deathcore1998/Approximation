@@ -1,0 +1,90 @@
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\Approximation.exe.config
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\Approximation.exe
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\Approximation.pdb
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.csprojAssemblyReference.cache
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\MainWindow.g.cs
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\App.g.cs
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.cache
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.lref
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\MainWindow.baml
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.g.resources
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.Properties.Resources.resources
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.csproj.GenerateResource.cache
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.csproj.CoreCompileInputs.cache
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.exe
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.pdb
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\ScottPlot.dll
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\ScottPlot.WPF.dll
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\System.Drawing.Common.dll
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\System.ValueTuple.dll
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\ScottPlot.xml
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\bin\Debug\System.ValueTuple.xml
+D:\gg1\gg2\gg3\учеба\C#\Approximation\Approximation\obj\Debug\Approximation.csproj.CopyComplete
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\Approximation.exe.config
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\Approximation.exe
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\Approximation.pdb
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\ScottPlot.dll
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\ScottPlot.WPF.dll
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\System.Drawing.Common.dll
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\System.ValueTuple.dll
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\ScottPlot.xml
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\bin\Debug\System.ValueTuple.xml
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csprojAssemblyReference.cache
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\MainWindow.g.cs
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\App.g.cs
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.cache
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.lref
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\MainWindow.baml
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.g.resources
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.Properties.Resources.resources
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.GenerateResource.cache
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.CoreCompileInputs.cache
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.CopyComplete
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.exe
+D:\gg1\учеба\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.pdb
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\Approximation.exe.config
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\Approximation.exe
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\Approximation.pdb
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\ScottPlot.dll
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\ScottPlot.WPF.dll
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\System.Drawing.Common.dll
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\System.ValueTuple.dll
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\ScottPlot.xml
+F:\какое то портфолио\Approximation\Approximation\bin\Debug\System.ValueTuple.xml
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.AssemblyReference.cache
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.SuggestedBindingRedirects.cache
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\MainWindow.g.cs
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\App.g.cs
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.cache
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.lref
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\MainWindow.baml
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.g.resources
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.Properties.Resources.resources
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.GenerateResource.cache
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.CoreCompileInputs.cache
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.csproj.CopyComplete
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.exe
+F:\какое то портфолио\Approximation\Approximation\obj\Debug\Approximation.pdb
+F:\portfolio\Approximation\Approximation\bin\Debug\Approximation.exe.config
+F:\portfolio\Approximation\Approximation\bin\Debug\Approximation.exe
+F:\portfolio\Approximation\Approximation\bin\Debug\Approximation.pdb
+F:\portfolio\Approximation\Approximation\bin\Debug\ScottPlot.dll
+F:\portfolio\Approximation\Approximation\bin\Debug\ScottPlot.WPF.dll
+F:\portfolio\Approximation\Approximation\bin\Debug\System.Drawing.Common.dll
+F:\portfolio\Approximation\Approximation\bin\Debug\System.ValueTuple.dll
+F:\portfolio\Approximation\Approximation\bin\Debug\ScottPlot.xml
+F:\portfolio\Approximation\Approximation\bin\Debug\System.ValueTuple.xml
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.csproj.AssemblyReference.cache
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.csproj.SuggestedBindingRedirects.cache
+F:\portfolio\Approximation\Approximation\obj\Debug\MainWindow.g.cs
+F:\portfolio\Approximation\Approximation\obj\Debug\App.g.cs
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.cache
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation_MarkupCompile.lref
+F:\portfolio\Approximation\Approximation\obj\Debug\MainWindow.baml
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.g.resources
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.Properties.Resources.resources
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.csproj.GenerateResource.cache
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.csproj.CoreCompileInputs.cache
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.csproj.CopyComplete
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.exe
+F:\portfolio\Approximation\Approximation\obj\Debug\Approximation.pdb

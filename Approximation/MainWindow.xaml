@@ -1,0 +1,123 @@
+﻿<Window x:Class="Approximation.MainWindow" ResizeMode="NoResize" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Approximation"
+        mc:Ignorable="d"
+        Title="Аппроксимация" Height="350" Width="760" Icon="/Images/graph.png">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="200" />
+            <Setter Property="HorizontalAlignment" Value="Right" />
+            <Setter Property="Height" Value="22" />
+            <Setter Property="Background" Value="#e8e8e8" />
+            <Setter Property="BorderBrush" Value="DarkGray" />
+            <Setter Property="HorizontalContentAlignment" Value="Left" />
+            <Setter Property="BorderThickness" Value="1,0,0,1" />
+        </Style>
+
+    </Window.Resources>
+
+
+    <Border BorderThickness="0,1,0,0" BorderBrush="Black">
+    <Grid >
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="400"/>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel x:Name="stack" Background="#e8e8e8" >
+
+   
+            <Button x:Name="Equation1" Click="Equation1_Click">
+                <TextBlock Margin="5,0,0,0" TextWrapping="Wrap">Метод Чень Чжун-Сяна</TextBlock>
+            </Button>
+            <Button x:Name="Equation2" Click="Equation2_Click">
+                    <TextBlock Margin="5,0,0,0" TextWrapping="Wrap">Метод Кори</TextBlock>
+            </Button>
+            <Button HorizontalContentAlignment="Left"  x:Name="Equation3" Click="Equation3_Click">
+                    <TextBlock Margin="5,0,0,0" TextWrapping="Wrap">Метод Курбанова-Куранова</TextBlock>
+            </Button>
+            <Button x:Name="Equation4" Click="Equation4_Click">
+                <TextBlock Margin="5,0,0,0" TextWrapping="Wrap">Метод Наара–Гендерсона</TextBlock>
+            </Button>
+            <Button x:Name="Equation5" Click="Equation5_Click">
+                <TextBlock Margin="5,0,0,0" TextWrapping="Wrap">Метод А.Т.Горбунов</TextBlock>
+            </Button>
+
+            </StackPanel>
+
+        <StackPanel Grid.Column="1" VerticalAlignment="Top">
+
+        <Label Margin="5,3,0,0" >Связанная водонасыщенность</Label>
+
+                <TextBox HorizontalAlignment="Right" x:Name="CurrentWaterSaturation" Margin="0,0,0,0" Height="30" Width="190" >
+                    <TextBox.Style>
+                        <Style TargetType="TextBox" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+                            <Style.Resources>
+                                <VisualBrush x:Key="CueBannerBrush" AlignmentX="Left" AlignmentY="Center" Stretch="None">
+                                    <VisualBrush.Visual>
+                                        <Label Content="диапазон от 0 до 1" Foreground="#949494" />
+                                    </VisualBrush.Visual>
+                                </VisualBrush>
+                            </Style.Resources>
+                            <Style.Triggers>
+                                <Trigger Property="Text" Value="{x:Static sys:String.Empty}">
+                                    <Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+                                </Trigger>
+                                <Trigger Property="Text" Value="{x:Null}">
+                                    <Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+                                </Trigger>
+                                <Trigger Property="IsKeyboardFocused" Value="True">
+                                    <Setter Property="Background" Value="White" />
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBox.Style>
+
+                </TextBox>
+                    <Label Margin="5,0,0,0">Критическая водонасыщенность</Label>
+
+                <TextBox HorizontalAlignment="Right" x:Name="CriticalWaterSaturation"  Margin="0,0,0,0" Height="30" Width="190" >
+                    <TextBox.Style>
+                        <Style TargetType="TextBox" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+                            <Style.Resources>
+                                <VisualBrush x:Key="CueBannerBrush" AlignmentX="Left" AlignmentY="Center" Stretch="None">
+                                    <VisualBrush.Visual>
+                                        <Label Content="диапазон от 0 до 1" Foreground="#949494" />
+                                    </VisualBrush.Visual>
+                                </VisualBrush>
+                            </Style.Resources>
+                            <Style.Triggers>
+                                <Trigger Property="Text" Value="{x:Static sys:String.Empty}">
+                                    <Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+                                </Trigger>
+                                <Trigger Property="Text" Value="{x:Null}">
+                                    <Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+                                </Trigger>
+                                <Trigger Property="IsKeyboardFocused" Value="True">
+                                    <Setter Property="Background" Value="White" />
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBox.Style>
+
+                </TextBox>
+
+                <Button BorderThickness="1,1,1,1"  Background="White" Width="190" BorderBrush="Black" HorizontalContentAlignment="Center" x:Name="CreateСhart" Margin="10,30,0,0" Height="30" Click="CreateСhart_Click" >Построить график</Button>
+                <Button BorderThickness="1,1,1,1"  Background="White" Width="190" BorderBrush="Black" HorizontalContentAlignment="Center" x:Name="SaveChart" Margin="10,30,0,0" Height="30" Click="SaveImage"  >Сохранить график</Button>
+            </StackPanel>
+
+
+        <StackPanel Grid.Column="2" VerticalAlignment="Top" HorizontalAlignment="Left"  Grid.ColumnSpan="2">
+            <WpfPlot Name="ChartApproximation" Margin="0,0,0,0" Height="300" Width="350" ></WpfPlot>
+
+        </StackPanel>
+    </Grid>
+    </Border>
+</Window>
